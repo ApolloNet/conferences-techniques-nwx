@@ -1,5 +1,9 @@
 # Conférences Techniques #NWX
 
+Conférences organisées par l'association #NWX, Normandie Web Xperts : programmes et liens vers les vidéos et slides.
+
+Plus d'informations sur [nwx.fr](http://nwx.fr).
+
  - 25 juin 2015 : [#NWX Summer Festival 2015](150625-nwx2015.md)
  - 21 mai 2015 : [#nwxtech8](150521-nwxtech8.md)
  - 21 abril 2015 : [#nwx webdesign #2](150421-nwxwd2.md)
