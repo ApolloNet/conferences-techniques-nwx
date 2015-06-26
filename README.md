@@ -1,6 +1,7 @@
 # Conférences Techniques #NWX
 
  - 21 mai 2015 : [#nwxtech8](150521-nwxtech8.md)
+ - 21 abril 2015 : [#nwx webdesign #2](150421-nwxwd2.md)
  - 2 octobre 2014 : [#nwx webdesign #1](141002-nwxwd1.md)
  - 12 mars 2014 : [#nwxtech7](140312-nwxtech7.md)
  - 15 mai 2013 : [#nwxtech6](130515-nwxtech6.md)
