@@ -10,6 +10,7 @@ Plus d'informations sur [nwx.fr](http://nwx.fr).
  - 2 octobre 2014 : [#nwx webdesign #1](141002-nwxwd1.md)
  - 26 juin 2014, [#nwx2014](140626-nwx2014.md)
  - 12 mars 2014 : [#nwxtech7](140312-nwxtech7.md)
+ - 17 octobre 2013 : [Codeurs en Seine](131017-codeurs-en-seine-2013.md)
  - 15 mai 2013 : [#nwxtech6](130515-nwxtech6.md)
  - 24 janvier 2013 : [#nwxtech5](130124-nwxtech5.md)
  - 23 octobre 2012 : [#nwxtech4](121023-nwxtech4.md)
