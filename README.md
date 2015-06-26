@@ -1,6 +1,6 @@
 # Conférences Techniques #NWX
 
-- 25 juin 2015 : [#NWX Summer Festival 2015](150625-nwx2015.md)
+ - 25 juin 2015 : [#NWX Summer Festival 2015](150625-nwx2015.md)
  - 21 mai 2015 : [#nwxtech8](150521-nwxtech8.md)
  - 21 abril 2015 : [#nwx webdesign #2](150421-nwxwd2.md)
  - 2 octobre 2014 : [#nwx webdesign #1](141002-nwxwd1.md)
